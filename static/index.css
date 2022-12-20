@@ -1,0 +1,26 @@
+body {
+    padding-top: 50px;
+    height: 100%;
+}
+
+html{height:100%;}
+
+.carousel,.item,.active{height:100%;}
+
+.carousel-inner{height:100%;}
+
+.carousel-inner img {
+    width: 100%; /* Set width to 100% */
+    height: inherit;
+    margin: auto;
+}
+
+.intro {
+  padding: 40px 15px;
+  text-align: center;
+  color: #000000;
+}
+
+.intro-text {
+  font-size: 20pt;
+}
